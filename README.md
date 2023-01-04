@@ -18,7 +18,7 @@ La réponse est dans le fichier Twitter.ipynb
 
 Les visualisations au minimum attendues: une analyse nuage de mots à représenter et la fréquence des bigrammes et trigrammes.
 
-La réponse est dans le fichier Cloud.
+La réponse est dans le fichier Cloud.ipynb
 
 ### BONUS
 
